@@ -10,8 +10,8 @@ import os
 # Load cleaned dataset
 df = pd.read_csv("data/cleaned/food_delivery_cleaned.csv")
 
-# Create Schreenshot folder if it does not exist
-os.makedirs("Schreenshot", exist_ok=True)
+# Create Screenshot folder if it does not exist
+os.makedirs("Screenshot", exist_ok=True)
 
 
 # ==========================================
