@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# MySQL
+*.sql.gz
+*.dump
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python distribution
+build/
+dist/
+*.egg-info/
+
+# Credentials and private keys
+*.pem
+*.key
+credentials.json
+secrets.json
