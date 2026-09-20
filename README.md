@@ -61,7 +61,7 @@ food_delivery_analystics/
 │
 ├── SQL/
 │   ├── food_delivery_analysis.sql
-│   └── Screenshot/
+│   └── Screenshots/
 │
 ├── Powerbi/
 │   └── Food_Delivery_Analytics_Dashboard.pbix
